@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "somemaidtest",
+    "backend": "somemaidtest",
+    "staging": "somemaidtest"
+  },
+  "targets": {},
+  "etags": {}
+}
